@@ -1,5 +1,5 @@
 ---
-title: Yiwei Wang - Portfolio
+title: Iris Wang - Portfolio
 ---
 
 {{< blocks/cover 
@@ -19,7 +19,7 @@ title: Yiwei Wang - Portfolio
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/iriswork0831">
   GitHub <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">AI/ML Engineer & Solution Architect</p>
+<h2 class="mt-5" style="font-size: 2.5rem; font-weight: bold;">AI/ML Engineer & Solution Architect</h2>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 

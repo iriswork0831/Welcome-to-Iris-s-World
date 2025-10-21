@@ -5,25 +5,35 @@ menu: {main: {weight: 10}}
 ---
 
 {{% blocks/cover
-    title="About Iris Wang: Articulate, Sharp, Curious"
+    title="Articulate, Sharp, Curious"
     image_anchor="center"
     height="med"
 %}}
 
 
-AI/ML Solution Architect 
-{.mt-5}
+<h2 class="mt-5" style="font-size: 2.5rem; font-weight: bold;">AI/ML Engineer & Solution Architect</h2>
 
 {{% /blocks/cover %}}
 
 
-{{% blocks/lead %}}
+{{% blocks/lead%}}
+{.text-start}
+<div class="text-start">
+I was born and raised in Shanghai, China, where curiosity was part of everyday life.  <br>
 
-Hello! I'm Iris Wang. I am an AI/ML Solution Architect driven by deep curiosity and a passion for transforming complex problems into elegant, human-centered solutions. With a background in Mathematics, Computer Science, and Management Analytics (4.0 GPA) from McGill University, I bring both technical precision and creative vision to every project I undertake.
+A full scholarship brought me to Vancouver for an exchange program — a city full of greenery and rain. I soon realized I wasn’t built for endless cloudy days, so I moved to Montreal to study at McGill University, where I found both challenge and clarity.    <br>
 
-I thrive at the intersection of data, design, and empathy — combining rigorous analytical thinking with a genuine understanding of user needs. My work spans from developing LLM-powered healthcare tools for aphasia patients to building scalable data-driven systems and predictive models that bridge technology and impact.
 
-Recognized for being a fast learner, sharp problem-solver, and compassionate collaborator, I am committed to leveraging AI responsibly to build systems that not only perform intelligently but also serve meaningfully.
+I’ve always loved **trying new things** — from exploring different fields of study to discovering the joy of snowboarding, where I earned my **CASI Level 1 certificate** after my very first season. I see every new skill as a small experiment in growth.    <br>
+
+
+With the help of large language models (LLMs), I began to see how the knowledge I’ve built — in mathematics, computer science, and analytics — can truly **help people solve real problems**. That realization led me toward becoming a **Solution Architect**, someone who connects technology with human needs.    <br>
+
+
+I don’t limit myself. I’m **always ready for new challenges**, open to opportunities, learning, and exposure.  <br>
+
+"If there's one thing that will always make me happy, that's learning. "
+</div>
 
 {{% /blocks/lead %}}
 
