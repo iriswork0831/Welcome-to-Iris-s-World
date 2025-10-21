@@ -1,5 +1,5 @@
 /*
-Custom styles for Iris Wang's AI/ML Portfolio - Black, White & Dark Navy Theme
+Custom styles for Iris Wang's AI/ML Home - Black, White & Dark Navy Theme
 */
 
 // Sleek black, white, and dark navy color scheme
@@ -98,11 +98,9 @@ $navy-light: #2C3E50;
   }
 }
 
-// Footer styling
+// Footer styling - Hidden
 .td-footer {
-  background-color: $pure-black;
-  color: $pure-white;
-  border-top: 2px solid $navy-dark;
+  display: none !important;
 }
 
 // Override any remaining light backgrounds

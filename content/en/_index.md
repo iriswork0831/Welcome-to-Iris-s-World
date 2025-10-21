@@ -1,5 +1,5 @@
 ---
-title: Iris Wang - Portfolio
+title: Iris Wang
 ---
 
 {{< blocks/cover 

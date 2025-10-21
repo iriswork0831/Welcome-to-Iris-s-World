@@ -11,7 +11,7 @@ menu: {main: {weight: 10}}
 %}}
 
 
-<h2 class="mt-5" style="font-size: 2.5rem; font-weight: bold;">AI/ML Engineer & Solution Architect</h2>
+<h2 class="mt-5" style="font-size: 2.5rem; font-weight: bold;">Iris Wang</h2>
 
 {{% /blocks/cover %}}
 
@@ -59,7 +59,6 @@ I'm always interested in new opportunities and collaborations.
 Feel free to reach out if you'd like to discuss projects or just chat about technology!
 
 **Email**: iriswork0831@gmail.com  
-**LinkedIn**: [Iris Wang LinkedIn](https://www.linkedin.com/in/iris-yiwei-wang/)  
-**GitHub**: [Iris Wang GitHub](https://github.com/iriswork0831)
+**LinkedIn**: [Iris Wang LinkedIn](https://www.linkedin.com/in/iris-yiwei-wang/)
 
 {{% /blocks/section %}}
