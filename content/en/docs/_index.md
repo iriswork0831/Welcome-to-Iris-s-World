@@ -5,7 +5,7 @@ menu: {main: {weight: 20}}
 ---
 
 {{% pageinfo %}}
-Welcome to my project showcase! Here you'll find detailed information about my software development projects, skills, and technical achievements.
+Welcome to my featured project showcase! Here you'll find detailed information about my most impactful software development projects and technical achievements.
 {{% /pageinfo %}}
 
 <div class="text-center mb-4">
@@ -14,18 +14,14 @@ Welcome to my project showcase! Here you'll find detailed information about my s
   </a>
 </div>
 
-This section showcases my work as a software developer - all the projects, 
-technologies, and solutions I've built. Each project demonstrates different 
-aspects of my technical skills and problem-solving abilities.
+This section highlights my most significant work as a software developer - carefully selected projects that best demonstrate my technical skills and problem-solving abilities in data analytics, machine learning, and software development.
 
-Browse through the different categories to learn more about my experience with 
-web development, data analysis, machine learning, and more. Each project includes 
-technical details, challenges faced, and solutions implemented.
+Each featured project includes comprehensive technical details, challenges faced, and innovative solutions implemented.
 
 ## Featured Projects
 
 <div class="row">
-  <div class="col-lg-6 mb-4">
+  <div class="col-lg-4 mb-4">
     <div class="card h-100">
       <div class="card-body">
         <h5 class="card-title">Airbnb Pricing & Occupancy Prediction</h5>
@@ -39,7 +35,7 @@ technical details, challenges faced, and solutions implemented.
     </div>
   </div>
   
-  <div class="col-lg-6 mb-4">
+  <div class="col-lg-4 mb-4">
     <div class="card h-100">
       <div class="card-body">
         <h5 class="card-title">Portfolio Management with ML</h5>
@@ -48,6 +44,20 @@ technical details, challenges faced, and solutions implemented.
         <a href="/docs/portfolio-management-with-ml/" class="btn btn-primary">View Project</a>
         <a href="https://github.com/iriswork0831/-Panda" target="_blank" class="btn btn-outline-secondary">
           <i class="fab fa-github"></i> GitHub
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">ACME Simulators Database System</h5>
+        <p class="card-text"><strong>Database Design • SQL • System Architecture</strong></p>
+        <p class="card-text">Designed and implemented a fully normalized database system for training manual management with version control, approval workflows, and dynamic document assembly across multiple platforms.</p>
+        <a href="/docs/acme-project/" class="btn btn-primary">View Project</a>
+        <a href="https://www.db-fiddle.com/f/nY5eLPKw584dk3P6hpQt13/26" target="_blank" class="btn btn-outline-secondary">
+          <i class="fas fa-database"></i> Live Demo
         </a>
       </div>
     </div>
