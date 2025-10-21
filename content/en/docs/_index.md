@@ -1,23 +1,20 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: Projects
+linkTitle: Projects
 menu: {main: {weight: 20}}
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Welcome to my project showcase! Here you'll find detailed information about my software development projects, skills, and technical achievements.
 {{% /pageinfo %}}
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+This section showcases my work as a software developer - all the projects, 
+technologies, and solutions I've built. Each project demonstrates different 
+aspects of my technical skills and problem-solving abilities.
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
+Browse through the different categories to learn more about my experience with 
+web development, data analysis, APIs, and more. Each project includes 
+technical details, challenges faced, and solutions implemented.
 
 Other content such as marketing material, case studies, and community updates
 should live in the [About](/about/) and [Community](/community/) pages.

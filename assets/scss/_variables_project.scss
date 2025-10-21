@@ -1,6 +1,113 @@
 /*
-
-Add styles or override variables from the theme here.
-
+Custom styles for Iris Wang's AI/ML Portfolio - Black, White & Dark Navy Theme
 */
+
+// Sleek black, white, and dark navy color scheme
+$primary: #0A1628;          // Very dark navy blue
+$secondary: #1B2B44;        // Slightly lighter dark navy
+$success: #ffffff;          // Pure white for success
+$info: #2C3E50;            // Dark blue-gray for info
+$warning: #34495E;         // Darker blue-gray for warnings
+$danger: #E74C3C;          // Keep red for errors (accessibility)
+$light: #F8F9FA;           // Off-white for light backgrounds
+$dark: #000000;            // Pure black for dark sections
+
+// Additional theme colors
+$pure-black: #000000;
+$pure-white: #ffffff;
+$charcoal: #1a1a1a;
+$navy-dark: #0A1628;
+$navy-medium: #1B2B44;
+$navy-light: #2C3E50;
+
+// Custom background styles
+.bg-black {
+  background-color: $pure-black !important;
+  color: $pure-white;
+}
+
+.bg-navy-dark {
+  background-color: $navy-dark !important;
+  color: $pure-white;
+}
+
+.bg-navy-gradient {
+  background: linear-gradient(135deg, $pure-black 0%, $navy-dark 50%, $navy-medium 100%) !important;
+  color: $pure-white;
+}
+
+// Custom button styles
+.btn-primary {
+  background-color: $navy-dark;
+  border-color: $navy-dark;
+  color: $pure-white;
+  
+  &:hover {
+    background-color: $navy-medium;
+    border-color: $navy-medium;
+    color: $pure-white;
+    transform: translateY(-2px);
+    transition: all 0.3s ease;
+  }
+}
+
+.btn-secondary {
+  background-color: $pure-white;
+  border-color: $pure-white;
+  color: $navy-dark;
+  
+  &:hover {
+    background-color: $light;
+    border-color: $light;
+    color: $pure-black;
+  }
+}
+
+// Navigation customization
+.td-navbar {
+  background-color: $pure-black !important;
+  border-bottom: 2px solid $navy-dark;
+  
+  .navbar-brand {
+    color: $pure-white !important;
+  }
+  
+  .nav-link {
+    color: $pure-white !important;
+    
+    &:hover {
+      color: $light !important;
+    }
+  }
+}
+
+// Section styling
+.td-cover-block {
+  background: linear-gradient(135deg, $pure-black 0%, $navy-dark 100%);
+  color: $pure-white;
+}
+
+// Code block styling
+.highlight {
+  background-color: $charcoal;
+  border: 1px solid $navy-dark;
+  border-radius: 8px;
+  
+  code {
+    color: $pure-white;
+  }
+}
+
+// Footer styling
+.td-footer {
+  background-color: $pure-black;
+  color: $pure-white;
+  border-top: 2px solid $navy-dark;
+}
+
+// Override any remaining light backgrounds
+.bg-light {
+  background-color: $pure-white !important;
+  color: $pure-black !important;
+}
 

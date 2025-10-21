@@ -2,11 +2,16 @@
 # (https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#configure-hugo-version-in-netlify)
 
 [build]
-command = "npm run build:preview"
+command = "hugo --gc --minify"
 publish = "public"
 
 [build.environment]
-GO_VERSION = "1.22.2"
+HUGO_VERSION = "0.151.2"
+GO_VERSION = "1.25.3"
+NODE_VERSION = "24"
 
 [context.production]
-command = "npm run build:production"
+command = "hugo --gc --minify"
+
+[context.production.environment]
+HUGO_ENV = "production"
