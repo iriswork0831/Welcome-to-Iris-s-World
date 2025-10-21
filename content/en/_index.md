@@ -52,7 +52,3 @@ Building scalable, maintainable solutions with modern technologies and best prac
 
 {{% /blocks/section %}}
 
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}}
