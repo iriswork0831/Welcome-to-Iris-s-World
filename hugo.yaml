@@ -46,9 +46,9 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Goldydocs
+    title: Home
     params:
-      description: A Docsy example site
+      description: Iris Wang's AI/ML Portfolio
   # cSpell:disable
   'no':
     languageName: Norsk
