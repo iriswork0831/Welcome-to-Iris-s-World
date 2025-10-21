@@ -53,29 +53,6 @@ Building scalable, maintainable solutions with modern technologies and best prac
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
-# Snowboarding & Flow  
-{.text-center}
-
-After finishing my undergrad, I felt a bit lost — I was searching for a software development role, but fixing bugs every day didn’t feel like the kind of problem-solving I loved.  
-That changed when I discovered **snowboarding**. It grounded me, reconnected me with flow, and reminded me how much I love learning through movement and challenge.  
-
-In my very first season, I earned my **CASI Level 1 Instructor Certificate**, and now I’m passionate about **freestyle and park riding** — constantly pushing myself to improve while enjoying every fall, turn, and breakthrough.  
-
-It’s become more than a sport — it’s a mindset: **balance, adaptability, and flow**, the same principles I bring to my work in AI.
-
-<div class="row justify-content-center mt-4">
-  <div class="col-md-5">
-    <img src="snowboard_1.jpg" alt="Iris snowboarding 1" class="img-fluid rounded shadow-lg" style="height: 400px; width: 100%; object-fit: cover;">
-  </div>
-  <div class="col-md-5">
-    <img src="snowboard_2.jpeg" alt="Iris snowboarding 2" class="img-fluid rounded shadow-lg" style="height: 400px; width: 100%; object-fit: cover;">
-  </div>
-</div>
-{{% /blocks/section %}}
-
-
-
-{{% blocks/section %}}
 This is the another section
 {.h1 .text-center}
 {{% /blocks/section %}}

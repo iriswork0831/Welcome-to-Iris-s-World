@@ -109,3 +109,28 @@ $navy-light: #2C3E50;
   color: $pure-black !important;
 }
 
+// Hide page action links (edit, view source, create issues, etc.)
+.td-page-meta--edit,
+.td-page-meta--view,
+.td-page-meta--child,
+.td-page-meta--issue,
+.td-page-meta--project,
+.td-page-meta__edit,
+.td-page-meta__view,
+.td-page-meta__child,
+.td-page-meta__issue,
+.td-page-meta__project-issue,
+#print {
+  display: none !important;
+}
+
+// Hide automatic child page listings in docs section main content only
+.td-content .col-12.col-md-9 .section-index {
+  display: none !important;
+}
+
+// Hide any automatic page listings below main content (but not in sidebar)
+.td-content .col-12.col-md-9 .td-page-meta + .row {
+  display: none !important;
+}
+
