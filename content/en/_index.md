@@ -65,10 +65,10 @@ It’s become more than a sport — it’s a mindset: **balance, adaptability, a
 
 <div class="row justify-content-center mt-4">
   <div class="col-md-5">
-    <img src="snowboard_1.jpg" alt="Iris snowboarding 1" class="img-fluid rounded shadow-lg">
+    <img src="snowboard_1.jpg" alt="Iris snowboarding 1" class="img-fluid rounded shadow-lg" style="height: 400px; width: 100%; object-fit: cover;">
   </div>
   <div class="col-md-5">
-    <img src="snowboard_2.jpg" alt="Iris snowboarding 2" class="img-fluid rounded shadow-lg">
+    <img src="snowboard_2.jpeg" alt="Iris snowboarding 2" class="img-fluid rounded shadow-lg" style="height: 400px; width: 100%; object-fit: cover;">
   </div>
 </div>
 {{% /blocks/section %}}
